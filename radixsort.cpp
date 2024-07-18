@@ -3,9 +3,6 @@
 # include <math.h>
 using namespace std;
 int a[100];
-# include <iostream>
-# include <stdlib.h>
-using namespace std;
 static int s;
 int k=9;
 void countsort(int a[],int g[],int n1) 
